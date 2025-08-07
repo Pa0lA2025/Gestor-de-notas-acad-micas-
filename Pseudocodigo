@@ -1,0 +1,45 @@
+### Pseudocodigo
+
+  Inicio
+
+  Imprimir "Gestor se notas academicas"
+  Imprimir "Registrar cursos"
+  Imprimir "Registrar nuevos cursos"
+  Imprimir "Registrar nota"
+  Imprimir "Modificar notas"
+  Imprimir "Eliminar nota"
+  Imprimir "Mostrar toda las notas"
+  Imprimir "Buscar notas especificas"
+  Imprimir "Calcular promedios"
+  Imprimir "Guardar datos"
+  Imprimir "Salir del sistema"
+
+  Mientras opcion != 5 Hacer
+  Imprimir "seleccione una opcion:"
+  Leer opcion
+
+  Si opcion ==  34 Entonces
+  <Registrar nuevo cursos>
+  Sino
+  Si opcion == 38 Entonces
+  <Mostrar todas las notas>
+  Sino
+  Si opcion == 39 Entonces
+  <Buscar notas espesificas>
+  Sino
+  Si opcion == 40 Entonces
+  <Calcular promedios>
+  Sino
+  Si opcion == 42 Entonces
+  Imprimir "saliendo del sistema"
+  Sino
+  Imprimir "opcion Invalida"
+  Fin_si
+  Fin_si
+  Fin_si
+  Fin_si
+  Fin_si
+  Fin_Mientras
+
+  Fin 
+  
